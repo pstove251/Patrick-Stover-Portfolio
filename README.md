@@ -1,7 +1,7 @@
 # CS105 Portfolio
 # Patrick Stover
 
-Contact Info:
+## Contact Info:
 
 pstover@loyola.edu
 
@@ -22,7 +22,7 @@ Major: Finance
 
 Class of 2029
 
-***
+
 ## Projects
 
 ## Module 8 - Capstone Project
@@ -49,7 +49,7 @@ Other Resources:
 
 Result:
 - I set out to create an effective business dashboard and financial analysis tool and I achieved that, If I could revisit this, I'd change the display and visuals of everything and make it more neat and organized.
-***
+
 
 
 ## CS 105 Python Final Project
@@ -74,7 +74,7 @@ Other Resources:
 
 Result:
 - I set out to create a solution for people to better figure out their personalities and I achieved that. If I could make improvements, I'd make the test longer and more in-depth.
-***
+
 
 
 ## CS 105 Module 15 Transcript Reports
