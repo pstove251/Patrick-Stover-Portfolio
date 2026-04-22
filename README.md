@@ -1,4 +1,4 @@
-# CS105 Portfolio
+
 # Patrick Stover
 
 ## Contact Info:
