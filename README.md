@@ -1,6 +1,3 @@
-
-# Patrick Stover
-
 ## Contact Info:
 
 pstover@loyola.edu
