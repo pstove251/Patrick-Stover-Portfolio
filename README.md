@@ -50,6 +50,8 @@ Other Resources:
 Result:
 - I set out to create an effective business dashboard and financial analysis tool and I achieved that, If I could revisit this, I'd change the display and visuals of everything and make it more neat and organized.
 ***
+
+
 ## CS 105 Python Final Project
 #### [Project Link](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-pstove251/blob/main/PersonalityTest.py)
 #### Project Summary
@@ -68,11 +70,13 @@ Challenges I faced:
 - A challenge I faced was figuring out which personalities to use and which questions and answers to use to effectively represent those personalities. I worked through this by using examples and guidance from existing personality tests online.
 
 Other Resources: 
-- I used [LearnPython](www.learnpython.org) for practice on loops and conditions.
+- I used Learn Python for practice on loops and conditions.
 
 Result:
 - I set out to create a solution for people to better figure out their personalities and I achieved that. If I could make improvements, I'd make the test longer and more in-depth.
 ***
+
+
 ## CS 105 Module 15 Transcript Reports
 #### Project 3 Summary
  - This project involves using Microsoft Access to create formatter transcript reports for 2 students.
