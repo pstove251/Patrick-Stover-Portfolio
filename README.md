@@ -52,7 +52,7 @@ Result:
 
 
 
-## CS 105 Python Final Project
+## CS 105 Python Final Project - Personality Test
 #### [Project Link](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-pstove251/blob/main/PersonalityTest.py)
 #### Project Summary
  - This project involves creating a personality test that categorizes users into different personality types based on their answers to questions.
