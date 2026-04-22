@@ -36,7 +36,7 @@ Class of 2029
 #### Project Report
 
 Initial project idea: 
- - My side hustle was buying and selling cars. My problem was that I needed a dashboard and financial analysis tool. This need to be solved to effectively manage this side hustle and that's what this project creates.
+ - My side hustle was buying and selling cars. My problem was that I needed a dashboard and financial analysis tool. This need to be solved to effectively manage my business and it's finances and that's what this project creates.
  
 Tools I used: 
 - I used Excel and the lecture 8.1, 8.2, and 8.3 review and practice activities to complete this project.
