@@ -1,6 +1,6 @@
 # CS105 Portfolio
 # Patrick Stover
-## Portfolio
+
 Contact Info:
 
 pstover@loyola.edu
