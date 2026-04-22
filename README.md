@@ -9,7 +9,7 @@ pstover@loyola.edu
 
 Hello! I am an experienced Private Equity Associate and Finance professional with over 5 years of proven expertise in Finance and Private Equity.
  
-With skills in financial modeling, valuation analysis, market research, and deal structuring, I am able to evaluate investment opportunities and optimize portfolio company performance, and achieve strong returns on invested capital. I am adept at using Microsoft Excel, PowerPoint, and Bloomberg Terminal.
+With skills in financial modeling, valuation analysis, market research, and deal structuring, I am able to evaluate investment opportunities and optimize company portfolio performance while achieving strong returns on invested capital. I am adept at using Microsoft Excel, PowerPoint, and Bloomberg Terminal.
  
 My analytical skill set, commitment to performance and improvement, and passion for Finance position me as a valuable asset.  In my spare time, I like to go to the gym and watch football. 
 
@@ -78,6 +78,7 @@ Result:
 
 
 ## CS 105 Module 15 Transcript Reports
+#### [Project Link](file:///C:/Users/akimb/Documents/GitHub/Patrick-Stover-Portfolio/assets/Transcript%20Report%20Student%201_Assessment15_CS105.01_Making%20Sense%20of%20Data.pdf)
 #### Project 3 Summary
  - This project involves using Microsoft Access to create formatter transcript reports for 2 students.
 ![Project 3 Image 1.png](assets/Project%203%20Image%201.png)
