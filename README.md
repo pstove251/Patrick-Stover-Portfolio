@@ -78,7 +78,8 @@ Result:
 
 
 ## CS 105 Module 15 Transcript Reports
-#### [Project Link](assets/Transcript%20Report%20Student%201_Assessment15_CS105.01_Making%20Sense%20of%20Data.pdf)
+#### [Project Link Student 1](assets/Transcript%20Report%20Student%201_Assessment15_CS105.01_Making%20Sense%20of%20Data.pdf)
+#### [Project Link Student 2](assets/Transcript%20Report%20Student%202_Assessment15_CS105.01_Making%20Sense%20of%20Data.pdf)
 #### Project 3 Summary
  - This project involves using Microsoft Access to create formatter transcript reports for 2 students.
 ![Project 3 Image 1.png](assets/Project%203%20Image%201.png)
